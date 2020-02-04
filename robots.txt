@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shoozakul.diegochagas.com/sitemap.xml
